@@ -1,0 +1,32 @@
+{
+  "dnes": [
+    {
+      "sport": "⚽",
+      "zapas": "Ukrajina U21 – výhra",
+      "kurz": 2.1,
+      "vklad": "1000 Kč",
+      "duvera": "✅✅✅✅⚪",
+      "cas": "18:30"
+    }
+  ],
+  "zitra": [
+    {
+      "sport": "🏒",
+      "zapas": "Florida Panthers – výhra",
+      "kurz": 1.85,
+      "vklad": "2000 Kč",
+      "duvera": "✅✅✅⚪⚪",
+      "cas": "02:00"
+    }
+  ],
+  "vip": [
+    {
+      "sport": "⚽",
+      "zapas": "Anglie U21 + Over 2.5 gólů",
+      "kurz": 4.15,
+      "vklad": "1500 Kč",
+      "duvera": "✅✅✅✅✅",
+      "cas": "20:00"
+    }
+  ]
+}
