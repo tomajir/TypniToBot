@@ -7,7 +7,7 @@ if not TOKEN:
     raise ValueError("Chybí proměnná BOT_TOKEN")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Vítej! Tento bot slouží k prodeji tipů.")
+    await update.message.reply_text("Vítej u TipniToBota!")
 
 def main():
     app = ApplicationBuilder().token(TOKEN).build()
